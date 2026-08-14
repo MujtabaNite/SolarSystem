@@ -127,8 +127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d4469af17618444087384de2bfa5fbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
-  projectileSpeed: 3
-  destroyDistance: 20
+  projectileSpeed: 4.58
+  destroyDistance: 116.8
 --- !u!96 &2666386768761179731
 TrailRenderer:
   serializedVersion: 4
